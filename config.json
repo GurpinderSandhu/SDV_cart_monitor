@@ -1,0 +1,31 @@
+{
+    "colour_threshold": 50,
+    "D12_2": [
+        {
+            "Bot-Right-Coords": [
+                454,
+                458
+            ],
+            "Top-Left-Coords": [
+                303,
+                298
+            ]
+        }
+    ],
+    "departure_wait_time": 5,
+    "robot_departure_buffer": 10,
+    "D12_1": [
+        {
+            "Bot-Right-Coords": [
+                471,
+                211
+            ],
+            "Top-Left-Coords": [
+                307,
+                52
+            ]
+        }
+    ],
+    "arrival_wait_time": 5,
+    "URL_BASE":"https://10.35.33.55"
+}
